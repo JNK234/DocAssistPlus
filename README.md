@@ -1,2 +1,13 @@
-# DocAssistPlus
-An Intelligent webapp that will predict the type of disease/ailment present in the medical scan uploaded. Models trained using Fastai library and the webapp created using the Streamlit library.
+---
+title: DocAssistPlus
+emoji: 🐢
+colorFrom: indigo
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.2.0
+app_file: app.py
+pinned: false
+license: other
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces#reference
